@@ -48,19 +48,20 @@
   </p>
   <br>
 
-  <h2>
-    📊 Mis Estadísticas
+ <h2>
+    📊​ Mis Estadisticas
   </h2>
-  
+
+
   <br>
     <div align="center">
-      <a href="https://github.com/JulianTs0">
-        <img height=175 src="https://github-readme-stats.vercel.app/api username=JulianTs0&show_icons=true&title_color=CD5C5C&text_color=FFD700&icon_color=00BFFF&border_color=FF4500&bg_color=0a0a0a&hide_border=true"/>
+      <a href="https://github.com/JulianTs0/github-readme-stats">
+        <img height=175 src="https://github-readme-stats.vercel.app/api?username=JulianTs0&show_icons=true&theme=maroongold"/>
       </a>
-      <a href="https://github.com/JulianTs0">
-        <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs username=JulianTs0&layout=compact&langs_count=8&card_width=320&title_color=CD5C5C&text_color=FFD700&border_color=FF4500&bg_color=0a0a0a&hide_border=true"/>
+      <a href="https://github.com/JulianTs0/convoychat">
+        <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianTs0&layout=compact&langs_count=6&card_width=320&theme=maroongold"/> 
       </a>
     </div>
-  <br>
+  <br> 
   
 </body>
