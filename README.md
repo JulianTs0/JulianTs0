@@ -58,9 +58,6 @@
       <a href="https://github-readme-stats.vercel.app/api?username=JulianTs0&show_icons=true&theme=maroongold">
         <img height=175 src="https://github-readme-stats.vercel.app/api?username=JulianTs0&show_icons=true&theme=maroongold"/>
       </a>
-      <a href="https://github-readme-stats.vercel.app/api?username=JulianTs0&show_icons=true&theme=maroongold">
-        <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianTs0&layout=compact&langs_count=6&card_width=320&theme=maroongold"/> 
-      </a>
     </div>
   <br> 
   
