@@ -11,7 +11,7 @@
   <br>
   <ul>
     <li>🔭 Actualmente estoy desarollando y llevando a cabo projectos web Con JavaScript/TypeScript + React/React Native </li>
-    <li>🌱 Estoy creciendo estudiando ingeneria en sistemas en la UTN FRC</li>
+    <li>🌱 Estoy creciendo estudiando ingenieria en sistemas en la UTN FRC</li>
     <li>🟦 Ademas de mi stack actual he trabajdo en varios lenguajes de programacion que me han servido para entender mas tecnicamente el desarollo</li>
     <li>☁️ Estoy interesado en todo lo que tiene que ver con desarollo Web, y aspiro a realizar DevOps.</li>
     <li>📫 Me podes contactar por mi <a href="https://www.linkedin.com/feed/">Linkedin</a> o por mi gmail juliantorresssr@gmail.com</li>
