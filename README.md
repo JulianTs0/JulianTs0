@@ -9,13 +9,13 @@
 <body>
   
   <br>
-  <ul>
-    <li>🔭 Actualmente estoy desarollando y llevando a cabo projectos web Con JavaScript/TypeScript + React/React Native </li>
-    <li>🌱 Estoy creciendo estudiando ingenieria en sistemas en la UTN FRC</li>
-    <li>🟦 Ademas de mi stack actual he trabajdo en varios lenguajes de programacion que me han servido para entender mas tecnicamente el desarollo</li>
-    <li>☁️ Estoy interesado en todo lo que tiene que ver con desarollo Web, y aspiro a realizar DevOps.</li>
-    <li>📫 Me podes contactar por mi <a href="https://www.linkedin.com/feed/">Linkedin</a> o por mi gmail juliantorresssr@gmail.com</li>
-  </ul>
+    <ul>
+      <li>🔭 Actualmente estoy desarrollando y llevando a cabo proyectos web con Java + Spring Boot y TypeScript + React</li>
+      <li>🌱 Estoy creciendo estudiando ingeniería en sistemas en la UTN FRC</li>
+      <li>🟦 Además de mi stack actual he trabajado en varios lenguajes de programación que me han servido para entender más técnicamente el desarrollo</li>
+      <li>☁️ Estoy interesado en todo lo que tiene que ver con desarrollo de software e implementación y mantenimiento de infraestructura</li>
+      <li>📫 Me podés contactar por mi <a href="https://www.linkedin.com/in/julian-torres-sorcini-aa4a67238/">Linkedin</a> o por mi correo juliantorresssr@gmail.com</li>
+    </ul>
   <br>
   
   <h2>
