@@ -74,15 +74,14 @@
 
 
 <br>
-<div align="center">
-  <a href="https://github.com/JulianTs0">
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=JulianTs0&show_icons=true" alt="Estadísticas de JulianTs0"/>
-  </a>
-  
-  <a href="https://github.com/JulianTs0">
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianTs0&layout=compact&langs_count=6" alt="Lenguajes de JulianTs0"/>
-  </a>
-</div>
-<br>
-  
+    <div align="center">
+      <a href="https://github-readme-stats.vercel.app/api?username=JulianTs0&show_icons=true">
+        <img height=175 src="https://github-readme-stats.vercel.app/api?username=JulianTs0&show_icons=true"/>
+      </a>
+      <a href="https://github-readme-stats.vercel.app/api?username=JulianTs0&show_icons=true">
+        <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianTs0&layout=compact&langs_count=6&card_width=320&size_weight=0.5&count_weight=0.5"/> 
+      </a>
+    </div>
+  <br>  
+
 </body>
